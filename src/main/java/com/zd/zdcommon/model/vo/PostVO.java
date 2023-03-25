@@ -1,6 +1,7 @@
-package com.zd.project.model.vo;
+package com.zd.zdcommon.model.vo;
 
-import com.zd.project.model.entity.Post;
+
+import com.zd.zdcommon.model.entity.Post;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 

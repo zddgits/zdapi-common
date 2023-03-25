@@ -1,4 +1,4 @@
-package com.zd.project.model.vo;
+package com.zd.zdcommon.model.vo;
 
 import lombok.Data;
 

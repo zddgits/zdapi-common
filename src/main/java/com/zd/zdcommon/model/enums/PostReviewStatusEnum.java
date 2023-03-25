@@ -1,4 +1,4 @@
-package com.zd.project.model.enums;
+package com.zd.zdcommon.model.enums;
 
 import java.util.Arrays;
 import java.util.List;
